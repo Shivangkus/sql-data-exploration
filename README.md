@@ -1,0 +1,1 @@
+Explored and analyzed COVID-19 datasets using SQL to uncover insights on cases, deaths, and vaccination trends. Worked with raw data from Excel files and performed data cleaning, aggregation, and filtering to generate meaningful reports. The project demonstrates hands-on experience in SQL data exploration, data analysis, and handling real-world public health datasets.
